@@ -1,0 +1,12 @@
+{
+  "name": "bot-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.8.0"
+  }
+}
